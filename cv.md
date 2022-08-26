@@ -3,7 +3,8 @@
 ### Contacts:
 * email: alexandra_rizh@mail.ru
 * github: AlexandraRiz
-***
+
+****
 ### About myself:
 I finished Insutute of Computer science of MGUESI in Moscow.
 Now I am working as sites content administrator and project coordinator in a digital agency, sovling bugs on sites and coordinating IT projects.
@@ -20,7 +21,7 @@ const printNumbers = (initialNumber) => {
 
   } 
   console.log('finished!');
-  
+ 
 };
 ***
 ### Work experience:
