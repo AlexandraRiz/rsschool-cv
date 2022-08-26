@@ -32,7 +32,7 @@ Sites content administrator / Project coordinator in IT
 *	Sites administration
 *	New platform sites migration 
 *	Correcting isuues in CSS on sites
-*	
+
 *******
 ### Education:
 Moscow State University of economics, statistics and informatics (MESI), Institute of computer science
