@@ -11,6 +11,14 @@ Now I am working as sites content administrator and project coordinator in a dig
 I am in passion with Javacript and my goal is to learn it and to become Frontend Developer.
 
 *****
+### Skills
+*	HTML, CSS
+*	Umbraco
+*	Javacript (starting level)
+*   Adobe Experience Manager
+
+
+******
 ### Code example:
 const printNumbers = (initialNumber) => {
  
@@ -25,7 +33,7 @@ const printNumbers = (initialNumber) => {
  
 };
 
-******
+*******
 ### Work experience:
 October 2019 – till present time – Empinity d.o.o., multinational digital agency:
 Sites content administrator / Project coordinator in IT 
@@ -33,11 +41,11 @@ Sites content administrator / Project coordinator in IT
 *	New platform sites migration 
 *	Correcting isuues in CSS on sites
 
-*******
+********
 ### Education:
 Moscow State University of economics, statistics and informatics (MESI), Institute of computer science
 
-*********
+**********
 ### Languages:
 English - C1,
 Serbian - C1.
