@@ -18,7 +18,7 @@ I am in passion with Javacript and my goal is to learn it and to become Frontend
 ### Code example:
 const printNumbers = (initialNumber) => {
   let i = initialNumber;
-  while ( (i <= initialNumber) && (i > 0)) {
+  while ( (i < = initialNumber) && (i > 0)) {
       console.log(i);
       i = i - 1;
   } 
