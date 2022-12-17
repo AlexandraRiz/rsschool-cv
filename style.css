@@ -1,4 +1,4 @@
-<!--style.css-->
+
 
 body {
     min-height: 100vh;
@@ -78,6 +78,21 @@ width: 50%;
     width: 100%;
     }
 }
+
+
+a {
+    text-decoration: none;
+    color: black;
+  }
+
+.footer-links {
+	margin: auto; color: white;
+	}	
+	
+.gh-link	{
+	padding-right: 15px; color: white;
+	}	
+	
 
 .footer-container {
     display: flex;

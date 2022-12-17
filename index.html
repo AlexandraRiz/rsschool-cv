@@ -1,4 +1,4 @@
-<!--index file-->
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -27,6 +27,7 @@
                   <li class="nav-item"><a href="#code" class="nav-link">Code</a></li>
                   <li class="nav-item"><a href="#courses" class="nav-link">Courses</a></li>
                   <li class="nav-item"><a href="#experience" class="nav-link">Experience</a></li>
+                  <li class="nav-item"><a href="#projects" class="nav-link">Projects</a></li>
                   <li class="nav-item"><a href="#education" class="nav-link">Education</a></li>
                   <li class="nav-item"><a href="#languages" class="nav-link">Languages</a></li>
                 </ul>
@@ -35,17 +36,18 @@
     </header>
 
     <main>
+	
         <div class="container main-container">
             <section class="section" id="profile">
-                <img src="assets\avatar.png" alt="Avatar" width="200" height="180">
+                <img src="assets/avatar.png" alt="Avatar" width="200" height="180">
                 <h1 class="section-title">Alexandra Rizhuhina</h1>           
             </section>
 
             <section class="section" id="contacts">
                 <h2 class="section-title">Contacts</h2>
                 <ul>
-                    <li>email: <a href="mailto:alexandra_rizh@mail.ru" style="color: black;">alexandra_rizh@mail.ru</a></li>
-                    <li>github: <a href="https://github.com/AlexandraRiz" style="color: black;">AlexandraRiz</a></li>
+                    <li class="email">email: <a href="mailto:alexandra_rizh@mail.ru" >alexandra_rizh@mail.ru</a></li>
+                    <li>github: <a href="https://github.com/AlexandraRiz" >AlexandraRiz</a></li>
                 </ul>    
             </section>
 
@@ -68,11 +70,11 @@
 
             <section class="section" id="code">
                 <h2 class="section-title">Code</h2>
-                <code>const printNumbers = (initialNumber) => {
+                <code>const printNumbers = (initialNumber) = &gt {
  
                     let i = initialNumber;
                   
-                    while ( (i <= initialNumber) && (i > 0)) {
+                    while ( (i &lt = initialNumber) && (i &gt 0)) {
                         console.log(i);
                         i = i - 1;
                   
@@ -95,13 +97,23 @@
             <section class="section" id="experience">
                 <h2 class="section-title">Experience</h2>
                 <p>October 2019 – till present time – Empinity d.o.o., multinational digital agency:
-                    Sites content administrator / Project coordinator in IT
+                    Sites content administrator / Project coordinator in IT</p>
                     <ul>
                         <li>Sites administration</li>
                         <li>New platform sites migration </li>
                         <li>Correcting isuues in CSS on sites</li>
                     </ul>
-                </p>
+                
+            </section>
+
+
+            <section class="section" id="projects">
+                <h2 class="section-title">Projects</h2>
+                <ul>
+                    <li>
+                        <a href="https://alexandrariz.github.io/rsschool-cv/">CV</a>
+                     </li>
+                </ul>
             </section>
 
             <section class="section" id="education">
@@ -125,8 +137,8 @@
 
     <footer>
         <div class="container footer-container">
-            <div style="margin: auto; color: white;">
-                <a href="https://github.com/AlexandraRiz" style= "padding-right: 15px; color: white;">AlexandraRiz</a>
+            <div class="footer-links">
+                <a class="gh-link" href="https://github.com/AlexandraRiz" >AlexandraRiz</a>
                 2022
                
             </div>
