@@ -80,10 +80,13 @@ width: 50%;
 }
 
 
-li {
+
+a {
+    text-decoration: none;
     color: black;
-    }
-	
+  }
+
+
 .footer-links {
 	margin: auto; color: white;
 	}	
@@ -110,3 +113,4 @@ li {
     letter-spacing: 5px;
     color: #2a78ab;
 }
+
